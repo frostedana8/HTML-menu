@@ -1,4 +1,4 @@
-package kndy.html.menu;
+package kndy.htmlmenu;
 
 import java.io.PrintWriter;
 import java.util.Scanner;

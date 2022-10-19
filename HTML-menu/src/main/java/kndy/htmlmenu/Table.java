@@ -1,4 +1,4 @@
-package kndy.html.menu;
+package kndy.htmlmenu;
 
 public class Table extends Bloque{
 
